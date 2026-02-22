@@ -1,26 +1,38 @@
 # Glow Salon – Local Business Website
 
-## About
-A professional, responsive website built for a local salon to improve
-online presence, customer trust, and appointment inquiries.
+## Overview
+This project is a professionally designed and developed website for a local beauty salon.
+The goal of the website is to improve the salon’s online presence, build customer trust,
+and make it easier for potential customers to connect with the business.
 
-## Features
-- Clean & modern UI
-- Mobile responsive design
-- Services showcase
-- Contact form & WhatsApp CTA
-- Google Maps integration
+## Business Problem
+The salon previously had no structured or professional online presence.
+Customers had limited access to information such as available services, contact details,
+and location, which reduced trust and online visibility.
+
+## Solution
+I designed and developed a clean, responsive, and user-friendly website that:
+- Clearly showcases salon services
+- Enables customers to contact the business via WhatsApp and a contact form
+- Displays the business location using Google Maps
+- Works seamlessly across mobile and desktop devices
+
+## Impact
+This website helps the local business:
+- Look more professional and trustworthy
+- Attract new customers online
+- Receive real customer inquiries through the contact form
+- Improve visibility and accessibility in the local area
 
 ## Tech Stack
 - HTML5
 - CSS3
 - JavaScript
+- Formspree (for contact form backend)
 
 ## Live Demo
-[Add your deployed link here]
-
-## Contact Form Backend
-The contact form is powered by Formspree, enabling secure form submissions and email notifications without requiring a custom backend server.
-
-## Live Website
 https://sravyagundlapally.github.io/FUTURE_FS_03/
+
+## Repository
+
+
